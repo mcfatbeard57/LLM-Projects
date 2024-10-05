@@ -7,7 +7,7 @@
 | AI-Twitter-reply-bot | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/AI-Twitter-reply-bot) | |
 | Email-Management | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Email-Management-with-CrewAI-LangGraph) | |
 | Cold Emails Basic | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Cold%20Emails) | |
-| | | |
+| AI Book Summariser | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/AI%20Book%20Summariser.) | |
 | | | |
 | | | |
 | | | |
