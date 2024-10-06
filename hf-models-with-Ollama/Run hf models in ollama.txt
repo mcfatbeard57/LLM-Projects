@@ -1,0 +1,18 @@
+# Run any hf model and run in ollaam locally
+
+### Install hf.exe:
+1. Create venv
+2. pip install -U "huggingface_hub[cli]"
+3. pip install huggingface_hub[hf_transfer]
+    This package helps speed up the process (its written in rust)
+4. export this env variable ->  HF_HUB_ENABLE_HF_TRANSFER=1
+5. Select a model from hugging face .gguf
+6. RUN huggingface-cli.exe download *model* *specific model*
+    huggingface-cli.exe download TheBloke/WizardLM-7B-uncensored-GGUF WizardLM-7B-uncensored. Q4_K_M.GGUF
+7. Open a normal file and not a txt file 
+    notepad modelfile
+8. Paste downlaod model directory path in the file 
+    FROM C: \Users\Filipe\.cache\huggingface\hub\models--TheBloke--WizardLM-7B-uncensored-GGUF\snapshots\db690b5e11897e4bcbfb5193bb24fd531ab5cd2f\WizardLM-7B-
+uncensored.gguf
+9. ollama create *model name you want to create* -f *location of modelfile*
+10. ollama list
