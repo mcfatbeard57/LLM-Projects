@@ -20,7 +20,7 @@
 | Chatbots | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Chatbots) | |
 | Audio2Text | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Audio2Text) | |
 | Agent Code Generator | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Agent-Code-Generator) | |
-|  | [Link]() | |
+| Surprise Travel planner | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Surprise%20Travel%20Planner) | |
 |  | [Link]() | |
 |  | [Link]() | |
 |  | [Link]() | |
