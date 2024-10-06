@@ -14,7 +14,24 @@
 | Summarising Call Transcripts | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Summarising%20Call%20Transcripts) | |
 | Text 2 SQL | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Text%20to%20SQL) | |
 | Agent Write with LangGrapg | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Agent%20Write%20with%20LangGraph) | |
-| | | |
+| AI MoM Creator | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/AI-MoM-creator) | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+| |  | |
+
 
 
 
