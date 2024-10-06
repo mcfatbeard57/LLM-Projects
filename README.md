@@ -18,7 +18,7 @@
 | Linkedin-Outreach-Agentic-Workforce | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Linkedin-Outreach-Agentic-Workforce) | |
 | Mixture-of-Agents-using-LlamaIndex-Packs | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Mixture-of-Agents-using-LlamaIndex-Packs) | |
 | Chatbots | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Chatbots) | |
-| |  | |
+| Audio2Text | [Link](https://github.com/mcfatbeard57/LLM-Projects/tree/main/Audio2Text) | |
 | |  | |
 | |  | |
 | |  | |
