@@ -25,3 +25,4 @@
 - **Try:**
   - Fine-tune LLaMA2 with QLoRA: [https://github.com/artidoro/qlora]
   - Deploy LLaMA2 on Amazon SageMaker: [(https://aws.amazon.com/blogs/machine-learning/package-and-deploy-classical-ml-and-llms-easily-with-amazon-sagemaker-part-2-interactive-user-experiences-in-sagemaker-studio/)]
+
