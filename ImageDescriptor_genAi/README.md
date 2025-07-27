@@ -9,6 +9,7 @@
 * **Intuitive local deployment with Streamlit:** Get started quickly with a user-friendly web interface.
 * **Object-oriented code (OOP):** Ensures clean, modular, and maintainable code.
 
+
 **Use cases:**
 
 * **Information retrieval:**
