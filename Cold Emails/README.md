@@ -2,6 +2,7 @@
 
 # ColdEmailAI
 
+
 ## Overview
 
 ColdEmailAI is a Python-based application designed to assist users in crafting personalized cold emails by leveraging advanced AI models. The application utilizes the Groq API and integrates with OpenAI's API to generate market research queries and formulate concise email content based on the user's target industry or company.
